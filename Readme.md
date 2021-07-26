@@ -14,7 +14,7 @@
 const tech = {
   code: [ C , Dart, Golang, Python, Java],
   tools: [ Flutter, Docker],
-  skills : [ Cybersecurity, Android Development, Web Development]
+  skills : [ Cybersecurity, Android Development, Backend Development]
   architecture: ["microservices"],
 }
 ```
