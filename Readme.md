@@ -12,7 +12,7 @@
 
 ```javascript
 const tech = {
-  code: [ C , Dart, Golang, Python, Bash],
+  code: [ C , Dart, Golang, Python, Bash, Javascript, C++],
   tools: [ Flutter, Docker ],
   skills : [ Cybersecurity, Android Development, Backend Development]
   architecture: ["microservices"],
