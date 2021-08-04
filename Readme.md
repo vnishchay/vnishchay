@@ -1,5 +1,5 @@
 <h2> Hi, I'm  Nishchay ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/codernishchay/codernishchay/blob/main/undraw_researching_22gp.svg" width="230">
+<img align='right' src="https://github.com/codernishchay/codernishchay/blob/main/undraw_researching_22gp.svg" width="250">
 <p><em>Student at <a href="http://iiits.in/">Indian Institute of Information Technology Sricity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
