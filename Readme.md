@@ -11,7 +11,7 @@
 ###  A little more about me...  
 
 ```javascript
-const tech = {
+var ME = {
   code: [ C , Dart, Golang, Python, Bash, Javascript, C++],
   tools: [ Flutter, Docker ],
   skills : [ Cybersecurity, Android Development, Backend Development]
