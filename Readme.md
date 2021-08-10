@@ -11,11 +11,11 @@
 ###  A little more about me...  
 
 ```javascript
-var ME = {
-  code: [ C , Dart, Golang, Python, Bash, Javascript, C++],
-  tools: [ Flutter, Docker ],
+var i = {
+  code: [ C , Dart, Golang, Python, Bash, JavaScript, C++, TypeScript],
+  tools: [ Flutter, Docker , Express, GraphQL, RestApi],
   skills : [ Cybersecurity, Android Development, Backend Development]
-  architecture: ["microservices"],
+  architecture: ["microservices"],  
 }
 ```
 
