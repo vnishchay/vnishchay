@@ -19,6 +19,13 @@ var i = {
 }
 ```
 
+<a href="https://github.com/kaushik-rishi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernishchay&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/kaushik-rishi/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codernishchay&layout=Demo&theme=blue-green" />
+</a>
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
