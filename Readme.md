@@ -3,8 +3,8 @@
 <p><em>Student at <a href="http://iiits.in/">Indian Institute of Information Technology Sricity</a>
 </em></p>
 
-[![Twitter: Nishchay](https://img.shields.io/twitter/follow/nishchay_v_?style=social)](https://twitter.com/nishchay_v_)
-[![Linkedin: Nishchay](https://img.shields.io/badge/-nishchay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishchay-verma-5a4a19193/)](https://www.linkedin.com/in/nishchay-verma-5a4a19193/)
+<!-- [![Twitter: Nishchay](https://img.shields.io/twitter/follow/nishchay_v_?style=social)](https://twitter.com/nishchay_v_)
+[![Linkedin: Nishchay](https://img.shields.io/badge/-nishchay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishchay-verma-5a4a19193/)](https://www.linkedin.com/in/nishchay-verma-5a4a19193/) -->
 <!-- [![GitHub Nishchay](https://img.shields.io/github/followers/codernishchay?label=follow&style=social)](https://github.com/codernishchay)
 ![](https://komarev.com/ghpvc/?username=codernishchay&color=green) -->
 
