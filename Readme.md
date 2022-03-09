@@ -5,11 +5,10 @@
 
 [![Twitter: Nishchay](https://img.shields.io/twitter/follow/nishchay_v_?style=social)](https://twitter.com/nishchay_v_)
 [![Linkedin: Nishchay](https://img.shields.io/badge/-nishchay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishchay-verma-5a4a19193/)](https://www.linkedin.com/in/nishchay-verma-5a4a19193/)
-[![GitHub Nishchay](https://img.shields.io/github/followers/codernishchay?label=follow&style=social)](https://github.com/codernishchay)
-![](https://komarev.com/ghpvc/?username=codernishchay&color=green)
+<!-- [![GitHub Nishchay](https://img.shields.io/github/followers/codernishchay?label=follow&style=social)](https://github.com/codernishchay)
+![](https://komarev.com/ghpvc/?username=codernishchay&color=green) -->
 
 ###  A little more about me...  
-
 ```javascript
 var i = {
   code: [ C , Dart, Golang, Python, Bash, JavaScript, C++, TypeScript],
