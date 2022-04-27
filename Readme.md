@@ -24,6 +24,6 @@ var i = {
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codernishchay&layout=Demo&theme=blue-green" />
 </a>
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 ---
