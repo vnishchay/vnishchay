@@ -18,7 +18,7 @@ var i = {
 ```
 
 <a href="https://github.com/vnishchay">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernishchay&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnishchay&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/vnishchay">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vnishchay&layout=Demo&theme=blue-green" />
